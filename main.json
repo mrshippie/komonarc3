@@ -252,145 +252,145 @@
                 }, 
                 {
                  "id":5,
-                 "image":"..\/alt\/pl\u00e4num mit fla.png",
+                 "image":"pl\u00e4num mit fla.png",
                  "imageheight":192,
                  "imagewidth":224
                 }, 
                 {
                  "id":6,
-                 "image":"..\/alt\/pl\u00e4num.png",
+                 "image":"pl\u00e4num.png",
                  "imageheight":192,
                  "imagewidth":192
                 }, 
                 {
                  "id":7,
-                 "image":"..\/alt\/mm klein.JPG",
+                 "image":"mm klein.JPG",
                  "imageheight":64,
                  "imagewidth":64
                 }, 
                 {
                  "id":8,
-                 "image":"..\/alt\/nullmuseum klein.JPG",
+                 "image":"nullmuseum klein.JPG",
                  "imageheight":64,
                  "imagewidth":64
                 }, 
                 {
                  "id":9,
-                 "image":"..\/alt\/once your lost.png",
+                 "image":"once your lost.png",
                  "imageheight":96,
                  "imagewidth":96
                 }, 
                 {
                  "id":10,
-                 "image":"..\/alt\/lounge klein.jpeg",
+                 "image":"lounge klein.jpeg",
                  "imageheight":64,
                  "imagewidth":64
                 }, 
                 {
                  "id":11,
-                 "image":"..\/alt\/m\u00e4ckis klein.png",
+                 "image":"m\u00e4ckis klein.png",
                  "imageheight":64,
                  "imagewidth":64
                 }, 
                 {
                  "id":12,
-                 "image":"..\/alt\/infoladen klein.png",
+                 "image":"infoladen klein.png",
                  "imageheight":64,
                  "imagewidth":64
                 }, 
                 {
                  "id":13,
-                 "image":"..\/alt\/komona_tileset.png",
+                 "image":"komona_tileset.png",
                  "imageheight":416,
                  "imagewidth":640
                 }, 
                 {
                  "id":14,
-                 "image":"..\/alt\/carl spray.png",
+                 "image":"carl spray.png",
                  "imageheight":164,
                  "imagewidth":192
                 }, 
                 {
                  "id":15,
-                 "image":"..\/alt\/carl.png",
+                 "image":"carl.png",
                  "imageheight":64,
                  "imagewidth":64
                 }, 
                 {
                  "id":16,
-                 "image":"..\/alt\/chaos amsterdam klein.jpg",
+                 "image":"chaos amsterdam klein.jpg",
                  "imageheight":64,
                  "imagewidth":64
                 }, 
                 {
                  "id":17,
-                 "image":"..\/alt\/Cuddlebutt-link klein.png",
+                 "image":"Cuddlebutt-link klein.png",
                  "imageheight":64,
                  "imagewidth":64
                 }, 
                 {
                  "id":18,
-                 "image":"..\/alt\/dezentrale2 klein.JPG",
+                 "image":"dezentrale2 klein.JPG",
                  "imageheight":64,
                  "imagewidth":64
                 }, 
                 {
                  "id":19,
-                 "image":"..\/alt\/exitgift.png",
+                 "image":"exitgift.png",
                  "imageheight":64,
                  "imagewidth":64
                 }, 
                 {
                  "id":20,
-                 "image":"..\/alt\/hack c.png",
+                 "image":"hack c.png",
                  "imageheight":563,
                  "imagewidth":1087
                 }, 
                 {
                  "id":21,
-                 "image":"..\/alt\/allfm.jpg",
+                 "image":"allfm.jpg",
                  "imageheight":32,
                  "imagewidth":32
                 }, 
                 {
                  "id":22,
-                 "image":"..\/alt\/allfmadresse.png",
+                 "image":"allfmadresse.png",
                  "imageheight":96,
                  "imagewidth":128
                 }, 
                 {
                  "id":23,
-                 "image":"..\/alt\/anarchist village klein.jpg",
+                 "image":"anarchist village klein.jpg",
                  "imageheight":64,
                  "imagewidth":64
                 }, 
                 {
                  "id":24,
-                 "image":"..\/alt\/back2komona.png",
+                 "image":"back2komona.png",
                  "imageheight":64,
                  "imagewidth":64
                 }, 
                 {
                  "id":25,
-                 "image":"..\/alt\/beware.png",
+                 "image":"beware.png",
                  "imageheight":96,
                  "imagewidth":96
                 }, 
                 {
                  "id":26,
-                 "image":"..\/alt\/bitwaescherei klein.JPG",
+                 "image":"bitwaescherei klein.JPG",
                  "imageheight":64,
                  "imagewidth":64
                 }, 
                 {
                  "id":27,
-                 "image":"..\/alt\/botoom left.jpg",
+                 "image":"botoom left.jpg",
                  "imageheight":96,
                  "imagewidth":96
                 }, 
                 {
                  "id":28,
-                 "image":"..\/alt\/carl grill.png",
+                 "image":"carl grill.png",
                  "imageheight":164,
                  "imagewidth":192
                 }],
