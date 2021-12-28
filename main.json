@@ -639,80 +639,12 @@
          "tileheight":32,
          "tiles":[
                 {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesCopyright",
-                         "type":"string",
-                         "value":"sianais\/lieblinge.org"
-                        }]
-                }, 
-                {
                  "id":1,
                  "properties":[
                         {
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"tilesCopyright",
-                         "type":"string",
-                         "value":"sianais\/lieblinge.org"
-                        }]
-                }, 
-                {
-                 "id":2,
-                 "properties":[
-                        {
-                         "name":"tilesCopyright",
-                         "type":"string",
-                         "value":"sianais\/lieblinge.org"
-                        }]
-                }, 
-                {
-                 "id":3,
-                 "properties":[
-                        {
-                         "name":"tilesCopyright",
-                         "type":"string",
-                         "value":"sianais\/lieblinge.org"
-                        }]
-                }, 
-                {
-                 "id":4,
-                 "properties":[
-                        {
-                         "name":"tilesCopyright",
-                         "type":"string",
-                         "value":"sianais\/lieblinge.org"
-                        }]
-                }, 
-                {
-                 "id":5,
-                 "properties":[
-                        {
-                         "name":"tilesCopyright",
-                         "type":"string",
-                         "value":"sianais\/lieblinge.org"
-                        }]
-                }, 
-                {
-                 "id":6,
-                 "properties":[
-                        {
-                         "name":"tilesCopyright",
-                         "type":"string",
-                         "value":"sianais\/lieblinge.org"
-                        }]
-                }, 
-                {
-                 "id":7,
-                 "properties":[
-                        {
-                         "name":"tilesCopyright",
-                         "type":"string",
-                         "value":"anais"
                         }]
                 }],
          "tilewidth":32
