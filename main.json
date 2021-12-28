@@ -420,7 +420,7 @@
          "name":"komona_tileset",
          "properties":[
                 {
-                 "name":"tilesetProperty",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"noja und mullana"
                 }],
@@ -630,9 +630,9 @@
          "name":"hidden_layers",
          "properties":[
                 {
-                 "name":"tilesetProperty",
+                 "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"Sianais\/Lieblinge.org"
+                 "value":"sianais\/lieblinge.org"
                 }],
          "spacing":0,
          "tilecount":72,
@@ -727,7 +727,7 @@
          "name":"mobilehouses",
          "properties":[
                 {
-                 "name":"tilesetProperty",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"stephiewunder"
                 }],
