@@ -240,7 +240,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/main.json"
+                 "value":"world:\/\/lobby\/solarpunk.json#start_1komona"
                 }],
          "type":"tilelayer",
          "visible":true,
