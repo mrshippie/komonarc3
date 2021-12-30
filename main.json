@@ -2705,7 +2705,7 @@
         {
          "columns":14,
          "firstgid":4768,
-         "image":"..\/..\/..\/Downloads\/outdoors.png",
+         "image":"outdoors.png",
          "imageheight":352,
          "imagewidth":448,
          "margin":0,
@@ -2724,7 +2724,7 @@
         {
          "columns":18,
          "firstgid":4922,
-         "image":"..\/..\/..\/Downloads\/numbers.tsx.png",
+         "image":"numbers.tsx.png",
          "imageheight":320,
          "imagewidth":576,
          "margin":0,
