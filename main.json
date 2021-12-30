@@ -394,6 +394,34 @@
         }, 
         {
          "draworder":"topdown",
+         "id":35,
+         "name":"anticollidebadge",
+         "objects":[
+                {
+                 "height":33.3333333333333,
+                 "id":3,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"8MrWdVzguafs1y4A6E0WnTondUs5umvgUTN8Nxc9O9MUDdB8PR"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":28,
+                 "x":450.666666666667,
+                 "y":1601.33333333333
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
          "objects":[],
@@ -427,8 +455,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":35,
- "nextobjectid":1,
+ "nextlayerid":36,
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "properties":[
         {
